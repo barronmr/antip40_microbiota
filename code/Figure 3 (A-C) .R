@@ -1,6 +1,6 @@
 ###############################################################################
 # INTRO 
-# Code to generate PcoA plots of theta YC distances; Figure 3
+# Code to generate PcoA plots of theta YC distances using fecal 16S rRNA sequences; Figure 3
 # 06/28/21
 #Madeline R Barron 
 ###############################################################################
