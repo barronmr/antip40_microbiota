@@ -1,6 +1,7 @@
 ###############################################################################
 # INTRO 
 # Code to generate PcoA plots of theta YC distances using fecal 16S rRNA sequences; Figure 3
+#(Note: mothur analyses were completed using the following pipeline: https://github.com/barronmr/mothurPipeline) 
 # 06/28/21
 #Madeline R Barron 
 ###############################################################################
