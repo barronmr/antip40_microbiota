@@ -1,5 +1,5 @@
 ###############################################################################
-# Relative Abundance of Top 10 Genera DMM Analysis (Figure)
+# Relative Abundance of Top 10 Genera DMM Analysis (Figure S3)
 #01/17/22
 #Madeline R. Barron
 ###############################################################################
@@ -138,13 +138,9 @@ dunn_test(log_mean_rel_abund ~ partition, p.adjust.method = "bonferroni", data =
  # 2 log_mean_rel_abund Partition_1 Parti…    20     4     -3.18 1.45e-3 0.00435 **          
  # 3 log_mean_rel_abund Partition_2 Parti…    18     4     -1.05 2.92e-1 0.877   ns    
 
-
-
 #Alistipes
 
-
 alis <- filter(top_otu_data, classification == "Alistipes")
-
 
 kruskal.test(log_mean_rel_abund ~ partition, data = alis)
 dunn_test(log_mean_rel_abund ~ partition, p.adjust.method = "bonferroni", data = alis)
