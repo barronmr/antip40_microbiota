@@ -1,4 +1,6 @@
-# This repository contains data and code used for microbiota analyses in our manuscript investigating the role of inflammation in susceptiblity to C.difficile colonization in mice with inflammatory bowel disease.
+# 
+
+This repository contains data and code used for microbiota analyses in our manuscript investigating the role of inflammation in susceptiblity to C.difficile colonization in mice with inflammatory bowel disease.
 
 Note: Pipeline for mothur analyses can be found here: https://github.com/barronmr/mothurPipeline 
 
