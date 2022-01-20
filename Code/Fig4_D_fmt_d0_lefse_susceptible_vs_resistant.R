@@ -106,7 +106,7 @@ top_otu_tax <- agg_otu_rel_abund %>%
 # in lefse analysis. We are grouping by the C.diff susceptibility of each sample.
 
 colors <- c("no" = "#999999", 
-            "yes" = "#E69F00")
+            "yes" = "black")
 
 abund<-ggplot(top_otu_tax,aes(x=log_mean_rel_abund,group = ever_pos_cdiff,
                               y= classification,color = ever_pos_cdiff)) +
@@ -123,3 +123,5 @@ abund<-ggplot(top_otu_tax,aes(x=log_mean_rel_abund,group = ever_pos_cdiff,
         text = element_text(colour = "black", size = 11))
 
 abund
+
+#Note: Figure legend and colors modified in Adobe Illustrator. 
