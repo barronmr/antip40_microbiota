@@ -23,11 +23,11 @@ library(tidyverse)
 
 #   (A) shared file from whole mothur run
 
-    shared <- read.csv('data/sample.final.shared.csv')
+    shared <- read.csv('sample.final.shared.csv')
 
 
 #   (B) meta_data, removing treatments and timepoints we don't want
-  meta_filter<- read.csv('data/antip40_exp1_exp2_exp3_fmt_metadata.csv') %>% 
+  meta_filter<- read.csv('antip40_exp1_exp2_exp3_fmt_metadata.csv') %>% 
   filter(exp_id_number != "fmt_1",
          exp_id_number != "fmt_2",
          treatment != "HhWT +  sterile water  + anti-p40",
@@ -42,7 +42,7 @@ library(tidyverse)
          sample_type.x == "feces")
 
 
-#     (C) Combinig shared and meta-filtered file
+#     (C) Combining shared and meta-filtered file
   
       shared_meta_filter <- inner_join(shared,meta_filter)
 
@@ -69,13 +69,13 @@ write.csv(dist_dn35,"dn35.dist.csv")
 
 #For mothur, copied and pasted all group_ids (sample names) into text editor, replaced spaces with dashes.
 
-#AFter mothur has generated necessary files:
+#After mothur has generated necessary files:
 
 #    (A) Read in file denoting PcA axes designations (generated in mothur) 
-axes <- read.csv("data/thetayc_feces_pcoa_axes.csv")
+axes <- read.csv("thetayc_feces_pcoa_axes.csv")
 
 #   (B) Read in metadata
-meta <- read.csv("data/antip40_exp1_exp2_exp3_fmt_metadata.csv")
+meta <- read.csv("antip40_exp1_exp2_exp3_fmt_metadata.csv")
 
 
 ###############################################################################
@@ -121,7 +121,7 @@ n35_plot
 
 #Save as PDF
 
-n21_pdf <- ggsave("results/dn35_beta.pdf", plot = n35_plot, width = 6, height = 4, units = "in")
+n21_pdf <- ggsave("dn35_beta.pdf", plot = n35_plot, width = 6, height = 4, units = "in")
 
 
 #    (B) 2 weeks post-Hh
@@ -137,7 +137,7 @@ n21_plot <- ggplot(n21, aes(axis1, axis2, colour=treatment_no_cd)) +
 n21_plot
 
 #Save as PDF
-n21_pdf <- ggsave("results/dn21_beta.pdf", plot = n21_plot, width = 6, height = 4, units = "in")
+n21_pdf <- ggsave("dn21_beta.pdf", plot = n21_plot, width = 6, height = 4, units = "in")
 
 ?ggsave
 
@@ -155,7 +155,7 @@ d0_plot <- ggplot(d0, aes(axis1, axis2, colour=treatment_no_cd,label=mouse_id)) 
 d0_plot
 
 #Save as PDF
-n21_pdf <- ggsave("results/d0_beta.pdf", plot = d0_plot, width = 6, height = 4, units = "in")
+n21_pdf <- ggsave("d0_beta.pdf", plot = d0_plot, width = 6, height = 4, units = "in")
 
 #Note: Cross bars and legend were added and modified in Adobe illustrator, respectively.
 
