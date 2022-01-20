@@ -187,7 +187,7 @@ res_top_OTU_rownames <- res_top_OTU_final_ordered %>%
 
 
 # (D) Creating matrix of numeric data (rel_abund of taxa)-- required for heatmap to plotclustering_distance_rows = "euclidean"
-mat_top_OTU <- as.matrix(res_top_OTU_final_ordered[,5:70]) 
+mat_top_OTU <- as.matrix(res_top_OTU_final_ordered[,5:16]) 
 rownames(mat_top_OTU) = rownames(res_top_OTU_rownames) #matching rownames (groups)
 
 # (05.2)
@@ -245,10 +245,8 @@ plot_heatmap_OTU <-
           rect_gp                  = gpar(col = "grey90", lwd = 2),
           row_order                = (order()),
           #row_split                = 2,
-          show_row_names           = TRUE, 
+          show_row_names           = FALSE, 
           cluster_columns          = FALSE)
-
-#clustering_distance_rows   = "euclidean") 
 
 plot_heatmap_OTU
 
