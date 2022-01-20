@@ -1,0 +1,1191 @@
+group,mouse_id,day,fmt_donor_recipient,fmt_donor_id,donor_number,sex,mouse_genotype.x,sample_type.x,treatment,treatment_no_cd,treatment_fmt_only,exp_id_number,experiment,sample_date.x,cdiff_cfu,pos_d1_cdiff,ever_pos_cdiff,lipocalin_2
+1219.cec,1219,9,donor,1219,1,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,NA,no,NA
+1219.col,1219,9,donor,1219,1,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,NA,NA,NA
+1219.f.d7,1219,7,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,NA,no,NA
+1219.f.d5,1219,5,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,NA,no,NA
+1219.f.d3,1219,3,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,NA,no,NA
+1219.f.d2,1219,2,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,NA,no,NA
+1219.f.d1,1219,1,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,NA,no,NA
+1219.f.d0,1219,0,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,NA,no,889
+1219.dn1,1219,-1,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,2.28.2021,0,NA,no,
+1219.inoc,1219,-1,donor,1219,1,F,il10,inoculum,HhWT + VPI spores + control mAb,,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,2.28.2021,0,NA,no,
+1219.f.dn7,1219,-7,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,NA,no,NA
+1219.f.dn21,1219,-21,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,NA,no,NA
+1219.f.dn35,1219,-35,donor,1219,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,NA,no,NA
+1226.cec,1226,9,donor,1226,1,F,il10,cecal.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1226.col,1226,9,donor,1226,1,F,il10,colon.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1226.f.d7,1226,7,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1226.f.d5,1226,5,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1226.f.d3,1226,3,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1226.f.d2,1226,2,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1226.f.d1,1226,1,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1226.f.d0,1226,0,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,0,no,no,43.4
+1226.dn1,1226,-1,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,2.28.2021,0,NA,no,
+1226.inoc,1226,-1,donor,1226,1,F,il10,inoculum,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,2.28.2021,0,NA,no,
+1226.f.dn7,1226,-7,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1226.f.dn21,1226,-21,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1226.f.dn28,1226,-28,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1226.f.dn35,1226,-35,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1226.f.dn14,1226,-14,donor,1226,1,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1230.cec,1230,9,donor,1230,2,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,17000,yes,yes,NA
+1230.col,1230,9,donor,1230,2,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,yes,NA,NA
+1230.f.d7,1230,7,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,10000,yes,yes,NA
+1230.f.d5,1230,5,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,28000,yes,yes,NA
+1230.f.d2,1230,2,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,82000,yes,yes,NA
+1230.f.d1,1230,1,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,1100,yes,yes,NA
+1230.f.d0,1230,0,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,yes,yes,2401.2
+1230.dn1,1230,-1,donor,1230,2,M ,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,NA,yes,
+1230.inoc,1230,-1,donor,1230,2,M ,il10,inoculum,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,NA,yes,
+1230.f.dn7,1230,-7,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,yes,yes,NA
+1230.f.dn14,1230,-14,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,yes,yes,NA
+1230.f.dn21,1230,-21,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,yes,no,NA
+1230.f.dn35,1230,-35,donor,1230,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,yes,yes,NA
+1231.cec,1231,9,donor,1231,2,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1231.col,1231,9,donor,1231,2,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1231.f.d7,1231,7,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1231.f.d5,1231,5,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1231.f.d3,1231,3,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1231.f.d2,1231,2,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1231.f.d1,1231,1,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1231.f.d0,1231,0,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,1376.5
+1231.dn1,1231,-1,donor,1231,2,M ,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,2.28.2021,0,NA,no,
+1231.inoc,1231,-1,donor,1231,2,M ,il10,inoculum,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,2.28.2021,0,NA,no,
+1231.f.dn7,1231,-7,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1231.f.dn14,1231,-14,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1231.f.dn21,1231,-21,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1231.f.dn28,1231,-28,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1231.f.dn35,1231,-35,donor,1231,2,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1240.cec,1240,9,donor,1240,2,F,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1240.col,1240,9,donor,1240,2,F,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,no,NA
+1240.f.d7,1240,7,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1240.f.d5,1240,5,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1240.f.d3,1240,3,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1240.f.d2,1240,2,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1240.f.d1,1240,1,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1240.f.d0,1240,0,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,4.8
+1240.dn1,1240,-1,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No_treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,NA,no,
+1240.inoc,1240,-1,donor,1240,2,F,il10,inoculum,No_treatment_controls (sterile broth + water + mAb vehicle),No_treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,NA,no,
+1240.f.dn7,1240,-7,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1240.f.dn14,1240,-14,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,yes,NA
+1240.f.dn21,1240,-21,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1240.f.dn28,1240,-28,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1240.f.dn35,1240,-35,donor,1240,2,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1289.cec,1289,9,donor,1289,1,F,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1289.col,1289,9,donor,1289,1,F,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,no,NA
+1289.d7,1289,7,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1289.d5,1289,5,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1289.d3,1289,3,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1289.d2,1289,2,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1289.d1,1289,1,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1289.d0,1289,0,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,NA
+1289.dn1,1289,-1,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,,no,
+1289.inoc,1289,-1,donor,1289,1,F,il10,inoculum,No_treatment_controls (sterile broth + water + mAb vehicle),,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,,no,
+1289.dn21,1289,-21,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,NA
+1289.dn35,1289,-35,donor,1289,1,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,No_treatment,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,8.1
+1303.cec,1303,9,donor,1303,2,M,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1303.col,1303,9,donor,1303,2,M,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,NA,NA
+1303.d7,1303,7,donor,1303,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1303.d5,1303,5,donor,1303,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1303.d3,1303,3,donor,1303,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1303.d2,1303,2,donor,1303,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1303.d1,1303,1,donor,1303,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1303.d0,1303,0,donor,1303,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,166.2
+1303.dn21,1303,-21,donor,1303,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,854.4
+1303.dn35,1303,-35,donor,1303,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,NA
+1303.dn1,1303,-1,donor,1303,2,M ,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,5.9.2021,0,,no,
+1303.inoc,1303,-1,donor,1303,2,M ,il10,inoculum,HhWT + VPI spores + anti-p40 ,Hh+p40,Anti-p40 FMT(R)+ VPI spores,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,5.9.2021,0,,no,
+1305.cec,1305,9,donor,1305,1,F,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,7900000,NA,no,NA
+1305.col,1305,9,donor,1305,1,F,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,NA,NA,NA
+1305.d7,1305,7,donor,1305,1,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,6300000,NA,yes,NA
+1305.d5,1305,5,donor,1305,1,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,3100000,NA,yes,NA
+1305.d3,1305,3,donor,1305,1,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,2020000,NA,yes,NA
+1305.d2,1305,2,donor,1305,1,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,1030000,NA,yes,NA
+1305.d0,1305,0,donor,1305,1,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,NA,yes,440.1074114
+1305.dn1,1305,-1,donor,1305,1,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,,yes,
+1305.inoc,1305,-1,donor,1305,1,F,il10,inoculum,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,,yes,
+1305.dn21,1305,-21,donor,1305,1,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,NA,yes,2141.7
+1305.dn35,1305,-35,donor,1305,1,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,11.8
+1306.cec,1306,9,donor,1306,2,F,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,1400000,yes,no,NA
+1306.col,1306,9,donor,1306,2,F,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1306.d7,1306,7,donor,1306,2,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,3100000,yes,yes,NA
+1306.d5,1306,5,donor,1306,2,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,8100000,yes,yes,NA
+1306.d3,1306,3,donor,1306,2,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,10000,yes,yes,NA
+1306.d2,1306,2,donor,1306,2,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,7700000,yes,yes,NA
+1306.d1,1306,1,donor,1306,2,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,720000,yes,yes,NA
+1306.d0,1306,0,donor,1306,2,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,2574.973147
+1306.dn1,1306,-1,donor,1306,2,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,,yes,
+1306.inoc,1306,-1,donor,1306,2,F,il10,inoculum,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,5.9.2021,NA,,yes,
+1306.dn35,1306,-35,donor,1306,2,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,Anti-p40 FMT(S)+ VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,13.9
+1215.cec,1215,9,NA,NA,NA,F,il10,cecal.contents,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,NA,no,NA
+1215.col,1215,9,NA,NA,NA,F,il10,colon.contents,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,NA,NA,NA
+1215.f.d7,1215,7,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,NA,no,NA
+1215.f.d5,1215,5,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,NA,no,NA
+1215.f.d3,1215,3,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,NA,no,NA
+1215.f.d2,1215,2,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,NA,no,NA
+1215.f.dn7,1215,-7,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,NA,no,NA
+1215.f.dn14,1215,-14,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,NA,no,NA
+1215.f.dn21,1215,-21,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,NA,no,NA
+1215.f.dn28,1215,-28,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,NA,no,NA
+1215.f.dn35,1215,-35,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,NA,no,NA
+1216.cec,1216,9,NA,NA,NA,F,il10,cecal.contents,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1216.f.d3,1216,3,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1216.f.d1,1216,1,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1216.f.d0,1216,0,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,482.5
+1216.f.dn7,1216,-7,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1216.f.dn14,1216,-14,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1216.f.dn21,1216,-21,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1216.f.dn28,1216,-28,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1216.f.dn35,1216,-35,NA,NA,NA,F,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1217.cec,1217,9,NA,NA,NA,F,il10,cecal.contents,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1217.f.d7,1217,7,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1217.f.d5,1217,5,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1217.f.d3,1217,3,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1217.f.d2,1217,2,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1217.f.d1,1217,1,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1217.f.dn7,1217,-7,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1217.f.dn28,1217,-28,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1217.f.dn35,1217,-35,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1218.cec,1218,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,9000,no,yes,NA
+1218.col,1218,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1218.f.d7,1218,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,3000,no,yes,NA
+1218.f.d5,1218,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,96000,no,yes,NA
+1218.f.d3,1218,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,8000,no,yes,NA
+1218.f.d2,1218,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,42000,no,yes,NA
+1218.f.d1,1218,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,yes,NA
+1218.f.dn7,1218,-7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,yes,NA
+1218.f.dn14,1218,-14,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,yes,NA
+1218.f.dn21,1218,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1218.f.dn28,1218,-28,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,yes,NA
+1218.f.dn35,1218,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,yes,NA
+1220.col,1220,9,NA,NA,NA,F,il10,colon.contents,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,NA,NA,NA
+1220.f.d7,1220,7,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,NA,no,NA
+1220.f.d5,1220,5,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,NA,no,NA
+1220.f.d3,1220,3,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,NA,no,NA
+1220.f.d2,1220,2,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,NA,no,NA
+1220.f.d1,1220,1,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,NA,no,NA
+1220.f.d0,1220,0,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,NA,no,1.1
+1220.f.dn7,1220,-7,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,NA,no,NA
+1220.f.dn21,1220,-21,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,NA,no,NA
+1220.f.dn28,1220,-28,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,NA,no,NA
+1220.f.dn35,1220,-35,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,NA,no,NA
+1227.cec,1227,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1227.col,1227,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1227.f.d5,1227,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1227.f.d3,1227,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1227.f.d2,1227,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1227.f.d1,1227,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1227.f.dn7,1227,-7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1227.f.dn14,1227,-14,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1227.f.dn21,1227,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1227.f.dn28,1227,-28,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1227.f.dn35,1227,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1228.cec,1228,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1228.col,1228,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1228.f.d7,1228,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1228.f.d5,1228,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1228.f.d3,1228,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1228.f.d2,1228,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1228.f.d1,1228,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1228.f.dn7,1228,-7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1228.f.dn14,1228,-14,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1228.f.dn21,1228,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1228.f.dn28,1228,-28,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1229.cec,1229,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1229.col,1229,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1229.f.d7,1229,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1229.f.d5,1229,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1229.f.d3,1229,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1229.f.d2,1229,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1229.f.d1,1229,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1229.f.d0,1229,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,20627.3
+1229.f.dn7,1229,-7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1229.f.dn14,1229,-14,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1229.f.dn21,1229,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1229.f.dn28,1229,-28,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1233.cec,1233,9,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1233.col,1233,9,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,no,NA
+1233.f.d7,1233,7,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1233.f.d5,1233,5,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1233.f.d3,1233,3,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1233.f.d2,1233,2,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1233.f.d1,1233,1,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1233.f.d0,1233,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,14.3
+1233.f.dn7,1233,-7,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1233.f.dn21,1233,-21,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1233.f.dn35,1233,-35,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1237.cec,1237,9,NA,NA,NA,M,il10,cecal.contents,Sterile broth +  VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1237.col,1237,9,NA,NA,NA,M,il10,colon.contents,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1237.f.d7,1237,7,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1237.f.d5,1237,5,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1237.f.d3,1237,3,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1237.f.d2,1237,2,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1237.f.d1,1237,1,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1237.f.d0,1237,0,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,12.6
+1237.f.dn14,1237,-14,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1237.f.dn28,1237,-28,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1237.f.dn35,1237,-35,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1238.cec,1238,9,NA,NA,NA,M,il10,cecal.contents,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1238.col,1238,9,NA,NA,NA,M,il10,colon.contents,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1238.f.d3,1238,3,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1238.f.d2,1238,2,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1238.f.d1,1238,1,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1238.f.d0,1238,0,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,0
+1238.f.dn7,1238,-7,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1238.f.dn14,1238,-14,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1238.f.dn21,1238,-21,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1238.f.dn28,1238,-28,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1238.f.dn35,1238,-35,NA,NA,NA,M,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1241.cec,1241,9,NA,NA,NA,F,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1241.col,1241,9,NA,NA,NA,F,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,no,NA
+1241.f.d7,1241,7,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1241.f.d5,1241,5,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1241.f.d3,1241,3,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1241.f.d2,1241,2,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1241.f.d1,1241,1,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1241.f.d0,1241,0,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1241.f.dn14,1241,-14,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,yes,NA
+1241.f.dn21,1241,-21,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1241.f.dn28,1241,-28,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1241.f.dn35,1241,-35,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1242.cec,1242,9,NA,NA,NA,F,il10,cecal.contents,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1242.col,1242,9,NA,NA,NA,F,il10,colon.contents,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1242.f.d7,1242,7,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1242.f.d5,1242,5,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1242.f.d3,1242,3,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1242.f.d2,1242,2,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1242.f.d1,1242,1,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1242.f.d0,1242,0,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1242.f.dn7,1242,-7,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1242.f.dn14,1242,-14,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1242.f.dn21,1242,-21,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1242.f.dn28,1242,-28,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1242.f.dn35,1242,-35,NA,NA,NA,F,il10,feces,Sterile broth  + VPI spores + anti-p40,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1243.cec,1243,9,NA,NA,NA,F,il10,cecal.contents,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1243.col,1243,9,NA,NA,NA,F,il10,colon.contents,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1243.f.d7,1243,7,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1243.f.d5,1243,5,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1243.f.d3,1243,3,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1243.f.d2,1243,2,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1243.f.d1,1243,1,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1243.f.d0,1243,0,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1243.f.dn7,1243,-7,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1243.f.dn14,1243,-14,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1243.f.dn21,1243,-21,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1243.f.dn28,1243,-28,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1243.f.dn35,1243,-35,NA,NA,NA,F,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1244.cec,1244,9,NA,NA,NA,F,il10,cecal.contents,Sterile broth +  VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1244.col,1244,9,NA,NA,NA,F,il10,colon.contents,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1244.f.d7,1244,7,NA,NA,NA,F,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1244.f.d2,1244,2,NA,NA,NA,F,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1244.f.d1,1244,1,NA,NA,NA,F,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1244.f.d0,1244,0,NA,NA,NA,F,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1244.f.dn7,1244,-7,NA,NA,NA,F,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1244.f.dn14,1244,-14,NA,NA,NA,F,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1244.f.dn28,1244,-28,NA,NA,NA,F,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1245.cec,1245,9,NA,NA,NA,M,il10,cecal.contents,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1245.col,1245,9,NA,NA,NA,M,il10,colon.contents,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1245.f.d7,1245,7,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1245.f.d5,1245,5,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1245.f.d3,1245,3,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1245.f.d2,1245,2,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1245.f.d1,1245,1,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1245.f.d0,1245,0,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1245.f.dn7,1245,-7,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1245.f.dn14,1245,-14,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1245.f.dn21,1245,-21,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1245.f.dn28,1245,-28,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1245.f.dn35,1245,-35,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1246.cec,1246,9,NA,NA,NA,M,il10,cecal.contents,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1246.col,1246,9,NA,NA,NA,M,il10,colon.contents,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1246.f.d7,1246,7,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1246.f.d5,1246,5,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1246.f.d3,1246,3,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1246.f.d2,1246,2,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1246.f.d1,1246,1,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1246.f.d0,1246,0,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1246.f.dn14,1246,-14,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1246.f.dn21,1246,-21,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1246.f.dn35,1246,-35,NA,NA,NA,M,il10,feces,HhWT + sterile water  + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1247.cec,1247,9,NA,NA,NA,M,il10,cecal.contents,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1247.col,1247,9,NA,NA,NA,M,il10,colon.contents,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1247.f.d5,1247,5,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1247.f.d3,1247,3,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1247.f.d2,1247,2,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1247.f.d1,1247,1,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1247.f.d0,1247,0,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1247.f.dn7,1247,-7,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1247.f.dn14,1247,-14,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1247.f.dn21,1247,-21,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1247.f.dn28,1247,-28,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1247.f.dn35,1247,-35,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1248.cec,1248,9,NA,NA,NA,M,il10,cecal.contents,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1248.col,1248,9,NA,NA,NA,M,il10,colon.contents,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1248.f.d7,1248,7,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1248.f.d5,1248,5,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1248.f.d3,1248,3,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1248.f.d2,1248,2,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1248.f.d1,1248,1,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1248.f.d0,1248,0,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,706.4
+1248.f.dn7,1248,-7,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1248.f.dn14,1248,-14,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1248.f.dn21,1248,-21,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1248.f.dn28,1248,-28,NA,NA,NA,M,il10,feces,HhWT +  sterile water  + anti-p40,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1249.cec,1249,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1249.col,1249,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1249.f.d7,1249,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1249.f.d5,1249,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1249.f.d3,1249,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1249.f.d2,1249,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1249.f.d1,1249,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1249.f.d0,1249,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,65.2
+1249.f.dn7,1249,-7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1249.f.dn14,1249,-14,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1249.f.dn21,1249,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1249.f.dn35,1249,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1250.cec,1250,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1250.col,1250,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1250.f.d7,1250,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1250.f.d5,1250,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1250.f.d3,1250,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1250.f.d2,1250,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1250.f.d1,1250,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1250.f.d0,1250,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,43.1
+1250.f.dn7,1250,-7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1250.f.dn14,1250,-14,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1250.f.dn21,1250,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1250.f.dn28,1250,-28,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1250.f.dn35,1250,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1251.cec,1251,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1251.col,1251,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1251.f.d7,1251,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1251.f.d3,1251,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1251.f.d2,1251,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1251.f.d1,1251,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1251.f.d0,1251,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1251.f.dn7,1251,-7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1251.f.dn14,1251,-14,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1251.f.dn21,1251,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1251.f.dn28,1251,-28,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1251.f.dn35,1251,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40 ,Hh+p40,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1255.cec,1255,9,NA,NA,NA,M,il10,cecal.contents,Sterile broth +  VPI spores + control mAb,Hh+control,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,0,no,no,NA
+1255.col,1255,9,NA,NA,NA,M,il10,colon.contents,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210310,NA,no,NA,NA
+1255.f.d7,1255,7,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210308,0,no,no,NA
+1255.f.d5,1255,5,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210306,0,no,no,NA
+1255.f.d3,1255,3,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210304,0,no,no,NA
+1255.f.d2,1255,2,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210303,0,no,no,NA
+1255.f.d1,1255,1,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210203,0,no,no,NA
+1255.f.d0,1255,0,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210103,NA,no,no,NA
+1255.f.dn7,1255,-7,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212202,NA,no,no,NA
+1255.f.dn14,1255,-14,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20211502,NA,no,no,NA
+1255.f.dn21,1255,-21,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210802,NA,no,no,NA
+1255.f.dn28,1255,-28,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20210102,NA,no,no,NA
+1255.f.dn35,1255,-35,NA,NA,NA,M,il10,feces,Sterile broth +  VPI spores + control mAb,,NA,p40_1,IL10_mice_HhWT_antip40_Exp_1_012521,20212501,NA,no,no,NA
+1261.cec,1261,0,NA,NA,NA,F,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1261.col.tiss,1261,0,NA,NA,NA,F,il10,colon.tissue,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1261.d0,1261,0,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,15
+1261.dn35,1261,-35,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,no,no,13.4
+1266.cec,1266,0,NA,NA,NA,F,il10,cecal.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1266.col,1266,0,NA,NA,NA,F,il10,colon.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1266.col.tiss,1266,0,NA,NA,NA,F,il10,colon.tissue,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1275.dn21,1266,-21,NA,NA,NA,F,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,2123
+1266.d0,1266,0,NA,NA,NA,F,il10,feces,HhWT + anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,2.5
+1267.cec,1267,0,NA,NA,NA,F,il10,cecal.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1267.col,1267,0,NA,NA,NA,F,il10,colon.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1267.col.tiss,1267,0,NA,NA,NA,F,il10,colon.tissue,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1277.dn21,1267,-21,NA,NA,NA,F,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,2570.3
+1267.dn35,1267,-35,NA,NA,NA,F,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,3.2
+1267.d0,1267,0,NA,NA,NA,F,il10,feces,HhWT + anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,77.8
+1268.cec,1268,0,NA,NA,NA,F,il10,cecal.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1268.col,1268,0,NA,NA,NA,F,il10,colon.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1268.col.tiss,1268,0,NA,NA,NA,F,il10,colon.tissue,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1266.dn21,1268,-21,NA,NA,NA,F,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,2356.8
+1268.dn35,1268,-35,NA,NA,NA,F,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,27.7
+1269.cec,1269,0,NA,NA,NA,M,il10,cecal.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1269.col,1269,0,NA,NA,NA,M,il10,colon.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1269.col.tiss,1269,0,NA,NA,NA,M,il10,colon.tissue,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1269.d0,1269,0,NA,NA,NA,M,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,18.9
+1269.dn35,1269,-35,NA,NA,NA,M,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,1.1
+1270.cec,1270,0,NA,NA,NA,M,il10,cecal.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1270.col,1270,0,NA,NA,NA,M,il10,colon.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1270.col.tiss,1270,0,NA,NA,NA,M,il10,colon.tissue,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1270.d0,1270,0,NA,NA,NA,M,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,4398.1
+1270.dn21,1270,-21,NA,NA,NA,M,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,4803
+1271.cec,1271,0,NA,NA,NA,M,il10,cecal.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1271.col,1271,0,NA,NA,NA,M,il10,colon.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1271.col.tiss,1271,0,NA,NA,NA,M,il10,colon.tissue,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1271.d0,1271,0,NA,NA,NA,M,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,10757.3
+1271.dn21,1271,-21,NA,NA,NA,M,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,3187.8
+1271.dn35,1271,-35,NA,NA,NA,M,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,34.7
+1272.cec,1272,0,NA,NA,NA,F,il10,cecal.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1272.col,1272,0,NA,NA,NA,F,il10,colon.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1272.col.tiss,1272,0,NA,NA,NA,F,il10,colon.tissue,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1272.dn21,1272,-21,NA,NA,NA,F,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,4161.1
+1272.dn35,1272,-35,NA,NA,NA,F,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,10
+1273.cec,1273,0,NA,NA,NA,F,il10,cecal.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1273.col,1273,0,NA,NA,NA,F,il10,colon.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1273.col.tiss,1273,0,NA,NA,NA,F,il10,colon.tissue,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1273.d0,1273,0,NA,NA,NA,F,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1273.dn21,1273,-21,NA,NA,NA,F,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,19585.5
+1273.dn35,1273,-35,NA,NA,NA,F,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,29.5
+1274.cec,1274,0,NA,NA,NA,F,il10,cecal.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1274.col,1274,0,NA,NA,NA,F,il10,colon.contents,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1274.col.tiss,1274,0,NA,NA,NA,F,il10,colon.tissue,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1274.d0,1274,0,NA,NA,NA,F,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,30492.8
+1274.dn21,1274,-21,NA,NA,NA,F,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,1086.9
+1274.dn35,1274,-35,NA,NA,NA,F,il10,feces,HhWT + isotype control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,6
+1275.cec,1275,0,NA,NA,NA,M,il10,cecal.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1275.col,1275,0,NA,NA,NA,M,il10,colon.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1275.col.tiss,1275,0,NA,NA,NA,M,il10,colon.tissue,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1267.dn21,1275,-21,NA,NA,NA,M,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,11367.7
+1275.dn35,1275,-35,NA,NA,NA,M,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,NA
+1275.d0,1275,0,NA,NA,NA,M,il10,feces,HhWT + anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,106.8
+1276.cec,1276,0,NA,NA,NA,M,il10,cecal.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1276.col,1276,0,NA,NA,NA,M,il10,colon.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1276.col.tiss,1276,0,NA,NA,NA,M,il10,colon.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1276.dn35,1276,-35,NA,NA,NA,M,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,20.8
+1276.d0,1276,0,NA,NA,NA,M,il10,feces,HhWT + anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,4
+1277.cec,1277,0,NA,NA,NA,M,il10,cecal.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1277.col,1277,0,NA,NA,NA,M,il10,colon.contents,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1277.col.tiss,1277,0,NA,NA,NA,M,il10,colon.tissue,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,NA
+1268.dn21,1277,-21,NA,NA,NA,M,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,NA,no,6275.4
+1277.dn35,1277,-35,NA,NA,NA,M,il10,feces,HhWT + anti-p40  mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,NA,no,24.4
+1277.d0,1277,0,NA,NA,NA,M,il10,feces,HhWT + anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,NA,no,87.6
+1278.cec,1278,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,300000,yes,yes,NA
+1278.col,1278,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1278.d7,1278,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,800000,yes,yes,NA
+1278.d5,1278,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,3000000,yes,yes,NA
+1278.d3,1278,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,330000,yes,yes,NA
+1278.d2,1278,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,620000,yes,yes,NA
+1278.d1,1278,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,2260000,yes,yes,NA
+1278.d0,1278,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,15672.53975
+1278.dn21,1278,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,1391.2
+1279.cec,1279,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,3300000,yes,yes,NA
+1279.col,1279,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1279.d7,1279,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,27300000,yes,yes,NA
+1279.d5,1279,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,18000000,yes,yes,NA
+1279.d3,1279,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,61000,yes,yes,NA
+1279.d2,1279,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,101000,yes,yes,NA
+1279.d1,1279,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,11100,yes,yes,NA
+1279.d0,1279,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,3412.408759
+1279.dn21,1279,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,1572.2
+1279.dn35,1279,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,NA
+1280.cec,1280,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,34000,yes,yes,NA
+1280.col,1280,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1280.d7,1280,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,33000,yes,yes,NA
+1280.d5,1280,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,45000,yes,yes,NA
+1280.d3,1280,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,70000,yes,yes,NA
+1280.d2,1280,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,18000,yes,yes,NA
+1280.d1,1280,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,33000,yes,yes,NA
+1280.d0,1280,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,NA
+1280.dn21,1280,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,994.5
+1280.dn35,1280,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,14.5
+1281.cec,1281,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,1720000,yes,yes,NA
+1281.col,1281,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1281.d7,1281,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,250000,yes,yes,NA
+1281.d5,1281,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,155000,yes,yes,NA
+1281.d3,1281,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,40000,yes,yes,NA
+1281.d1,1281,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,73000,yes,yes,NA
+1281.d0,1281,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,16019.46247
+1281.dn35,1281,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,NA
+1282.cec,1282,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,210000,yes,yes,NA
+1282.col,1282,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1282.d7,1282,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,31000,yes,yes,NA
+1282.d5,1282,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,28000,yes,yes,NA
+1282.d3,1282,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,16000,yes,yes,NA
+1282.d2,1282,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,1000,yes,yes,NA
+1282.d1,1282,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,1210,yes,yes,NA
+1282.dn21,1282,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,3557.4
+1282.dn35,1282,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,4.7
+1283.cec,1283,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,200000,yes,yes,NA
+1283.col,1283,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1283.d7,1283,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,40000,yes,yes,NA
+1283.d5,1283,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,170000,yes,yes,NA
+1283.d3,1283,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,70000,yes,yes,NA
+1283.d2,1283,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,33000,yes,yes,NA
+1283.d1,1283,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,279000,yes,yes,NA
+1283.d0,1283,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,5261.8
+1283.dn21,1283,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,1220.6
+1283.dn35,1283,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,2.9
+1284.cec,1284,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1284.col,1284,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,NA,NA
+1284.d5,1284,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1284.d3,1284,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1284.d2,1284,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1285.d1,1284,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1284.d0,1284,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,50.7
+1284.dn21,1284,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,2285.8
+1284.dn35,1284,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,0
+1285.cec,1285,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1285.col,1285,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,NA,NA
+1285.d7,1285,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1285.d5,1285,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1285.d3,1285,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1285.d2,1285,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1286.d1,1285,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1285.d0,1285,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,429.1
+1285.dn21,1285,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,2583.6
+1285.dn35,1285,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,9.8
+1286.cec,1286,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1286.d7,1286,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1286.d3,1286,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1286.d2,1286,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1287.d1,1286,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1286.d0,1286,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,939.3125671
+1286.dn21,1286,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,1661.8
+1286.dn35,1286,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,0
+1287.cec,1287,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,NA,no,NA
+1287.col,1287,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,NA,NA,NA
+1287.d7,1287,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,NA,no,NA
+1287.d5,1287,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,NA,no,NA
+1287.d3,1287,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,NA,no,NA
+1287.d2,1287,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,NA,no,NA
+1287.d0,1287,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,NA,no,31.04327938
+1287.dn21,1287,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,NA,no,4142.6
+1287.dn35,1287,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,NA,no,13.7
+1288.cec,1288,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,303000,yes,yes,NA
+1288.col,1288,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,NA,NA,NA
+1288.d7,1288,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,169000,yes,yes,NA
+1288.d5,1288,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,79000,yes,yes,NA
+1288.d3,1288,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,3000,yes,yes,NA
+1288.d2,1288,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,23000,yes,yes,NA
+1288.d1,1288,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,23000,yes,yes,NA
+1288.d0,1288,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,9012.7
+1288.dn21,1288,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,6156.2
+1288.dn35,1288,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,9.5
+1290.cec,1290,9,NA,NA,NA,F,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1290.col,1290,9,NA,NA,NA,F,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,no,NA
+1290.d7,1290,7,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1290.d5,1290,5,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1290.d3,1290,3,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1290.d2,1290,2,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1290.d1,1290,1,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1290.d0,1290,0,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,NA
+1290.dn21,1290,-21,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,NA
+1290.dn35,1290,-35,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,NA
+1291.cec,1291,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,yes,yes,NA
+1291.col,1291,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1291.d7,1291,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,yes,yes,NA
+1291.d5,1291,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,3000,yes,yes,NA
+1291.d3,1291,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,2000,yes,yes,NA
+1291.d2,1291,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,6000,yes,yes,NA
+1291.d1,1291,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,5000,yes,yes,NA
+1291.dn21,1291,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,9583.3
+1292.cec,1292,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,yes,NA
+1292.col,1292,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,NA,NA
+1292.d7,1292,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1292.d5,1292,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1292.d2,1292,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1292.d1,1292,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1292.d0,1292,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,22994.4
+1292.dn21,1292,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,623.3
+1292.dn35,1292,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,36.6
+1293.cec,1293,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,yes,NA
+1293.col,1293,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,NA,NA
+1293.d7,1293,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,3000,no,yes,NA
+1293.d5,1293,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,yes,NA
+1293.d3,1293,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,yes,NA
+1293.d1,1293,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,yes,NA
+1293.d0,1293,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,yes,21890.4824
+1293.dn21,1293,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,yes,1632.5
+1293.dn35,1293,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,yes,NA
+1301.cec,1301,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,yes,yes,NA
+1301.col,1301,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1301.d7,1301,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,yes,yes,NA
+1301.d5,1301,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,1000,yes,yes,NA
+1301.d3,1301,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,2000,yes,yes,NA
+1301.d2,1301,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,yes,yes,NA
+1301.d1,1301,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,2000,yes,yes,NA
+1301.d0,1301,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,27694.82152
+1301.dn21,1301,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,2067.4
+1301.dn35,1301,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,NA
+1302.cec,1302,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1302.col,1302,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,NA,NA
+1302.d5,1302,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1302.d3,1302,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1302.d2,1302,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1302.d1,1302,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1302.d0,1302,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,0
+1302.dn21,1302,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,NA
+1302.dn35,1302,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,14.7
+1302.d7,1302,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1304.d1,1303,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1304.cec,1304,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1304.col,1304,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,NA,NA
+1304.d7,1304,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1304.d5,1304,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1304.d3,1304,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1311.d1,1304,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1304.d0,1304,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,217.5
+1304.dn21,1304,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,3671.6
+1304.dn35,1304,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,NA
+1307.cec,1307,9,NA,NA,NA,F,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1307.col,1307,9,NA,NA,NA,F,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,no,NA
+1307.d7,1307,7,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1307.d3,1307,3,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1307.d2,1307,2,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1307.d1,1307,1,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1307.dn21,1307,-21,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,1.4
+1307.dn35,1307,-35,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,16
+1308.cec,1308,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,NA,yes,NA
+1308.col,1308,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,NA,NA,NA
+1308.d5,1308,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,NA,no,NA
+1308.d3,1308,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,NA,no,NA
+1308.d2,1308,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,NA,no,NA
+1308.d0,1308,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,NA,no,7422.699849
+1308.dn21,1308,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,NA,no,745.8
+1309.cec,1309,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,yes,yes,NA
+1309.col,1309,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1309.d7,1309,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,yes,yes,NA
+1309.d5,1309,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,10000,yes,yes,NA
+1309.d3,1309,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,yes,yes,NA
+1309.d2,1309,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,yes,yes,NA
+1309.d1,1309,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,4000,yes,yes,NA
+1309.d0,1309,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,5338.550984
+1309.dn21,1309,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,970.1
+1309.dn35,1309,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,13.7
+1310.cec,1310,9,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,36000,yes,yes,NA
+1310.col,1310,9,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,yes,NA,NA
+1310.d7,1310,7,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,12000,yes,yes,NA
+1310.d5,1310,5,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,17000,yes,yes,NA
+1310.d3,1310,3,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,22000,yes,yes,NA
+1310.d2,1310,2,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,3000,yes,yes,NA
+1310.d1,1310,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,4000,yes,yes,NA
+1310.d0,1310,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,25507.07547
+1310.dn21,1310,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,yes,yes,4844.1
+1310.dn35,1310,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,yes,yes,23.3
+1311.cec,1311,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1311.col,1311,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,no,NA
+1311.d5,1311,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1311.d3,1311,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1311.d2,1311,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1312.d1,1311,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1311.d0,1311,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,no,no,105.9
+1311.dn21,1311,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211904,NA,no,no,1588.8
+1311.dn35,1311,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,NA
+1312.cec,1312,9,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,0,no,no,NA
+1312.col,1312,9,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,no,NA,NA
+1312.d7,1312,7,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,0,no,no,NA
+1312.d5,1312,5,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,0,no,no,NA
+1312.d3,1312,3,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211305,0,no,no,NA
+1312.d2,1312,2,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1284.d1,1312,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,0,no,no,NA
+1312.d0,1312,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,,no,305.7
+1312.dn35,1312,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores +  anti-p40 mAb,Hh+p40,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,no,no,NA
+1313.cec,1313,9,donor,1313,1,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,39800000,yes,yes,NA
+1313.col,1313,9,donor,1313,1,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211905,NA,NA,NA,NA
+1313.d7,1313,7,donor,1313,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211705,21700000,yes,yes,NA
+1313.d5,1313,5,donor,1313,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211505,45100000,yes,yes,NA
+1313.d2,1313,2,donor,1313,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,1390000,yes,yes,NA
+1313.d1,1313,1,donor,1313,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211205,12000,yes,yes,NA
+1313.d0,1313,0,donor,1313,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211005,NA,yes,yes,11168.47826
+1313.dn1,1313,-1,donor,1313,1,F,il10,feces,HhWT + VPI spores + control mAb,,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032925,5.9.2021,NA,NA,yes,
+1313.inoc,1313,-1,donor,1313,1,F,il10,inoculum,HhWT + VPI spores + control mAb,,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032925,5.9.2021,NA,NA,yes,
+1313.dn35,1313,-35,donor,1313,1,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,Isotype FMT(S) + VPI spores,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210504,NA,NA,yes,1.9
+1314.cec,1314,0,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1314.col,1314,0,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1314.col.tiss,1314,0,NA,NA,NA,M,il10,colon.tissue,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1314.d0,1314,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,2.6
+1314.dn21,1314,-21,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,no,no,16.9
+1315.cec,1315,0,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1315.col,1315,0,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1315.col.tiss,1315,0,NA,NA,NA,M,il10,colon.tissue,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1315.d0,1315,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,3.2
+1315.dn21,1315,-21,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,no,no,40.8
+1315.dn35,1315,-35,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,no,no,13.7
+1316.cec,1316,0,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1316.col,1316,0,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1316.col.tiss,1316,0,NA,NA,NA,M,il10,colon.tissue,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1316.d0,1316,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,3.2
+1316.dn21,1316,-21,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,no,no,15.4
+1316.dn35,1316,-35,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,no,no,16.1
+1317.cec,1317,0,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1317.col,1317,0,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1317.col.tiss,1317,0,NA,NA,NA,M,il10,colon.tissue,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1317.d0,1317,0,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20210305,NA,no,no,NA
+1317.dn21,1317,-21,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20211204,NA,no,no,44.5
+1317.dn35,1317,-35,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_2,IL10_mice_HhWT_antip40_Exp_2_032921,20212903,NA,no,no,42.4
+1499.cec,1499,0,NA,NA,NA,F,il10,cecal.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1499.col,1499,0,NA,NA,NA,F,il10,colon.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1499.d0,1499,0,NA,NA,NA,F,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1499.dn21,1499,-21,NA,NA,NA,F,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,16992
+1499.dn35,1499,-35,NA,NA,NA,F,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,
+1500.cec,1500,0,NA,NA,NA,F,il10,cecal.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1500.col,1500,0,NA,NA,NA,F,il10,colon.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1500.dn21,1500,-21,NA,NA,NA,F,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,2236.7
+1501.cec,1501,0,NA,NA,NA,M,il10,cecal.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1501.col,1501,0,NA,NA,NA,M,il10,colon.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1501.d0,1501,0,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,14690.9
+1501.dn35,1501,-35,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,4
+1502.cec,1502,0,NA,NA,NA,M,il10,cecal.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1502.col,1502,0,NA,NA,NA,M,il10,colon.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1502.d0,1502,0,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,30785.2
+1502.dn21,1502,-21,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,3204.7
+1503.cec,1503,0,NA,NA,NA,M,il10,cecal.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1503.col,1503,0,NA,NA,NA,M,il10,colon.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1503.dn21,1503,-21,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,768.9
+1503.dn35,1503,-35,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,1.6
+1504.cec,1504,0,NA,NA,NA,M,il10,cecal.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1504.col,1504,0,NA,NA,NA,M,il10,colon.contents,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1504.d0,1504,0,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,10688.7
+1504.dn21,1504,-21,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,8770.4
+1504.dn35,1504,-35,NA,NA,NA,M,il10,feces,HhWT + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,3
+1505.cec,1505,0,NA,NA,NA,M,il10,cecal.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1505.col,1505,0,NA,NA,NA,M,il10,colon.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1505.d0,1505,0,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,
+1505.dn21,1505,-21,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,12449.1
+1506.cec,1506,0,NA,NA,NA,M,il10,cecal.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1506.col,1506,0,NA,NA,NA,M,il10,colon.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1506.d0,1506,0,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,105.5
+1506.dn21,1506,-21,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,2369.2
+1506.dn35,1506,-35,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,2.6
+1507.cec,1507,0,NA,NA,NA,M,il10,cecal.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1507.col,1507,0,NA,NA,NA,M,il10,colon.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1507.d0,1507,0,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,7.4
+1507.dn35,1507,-35,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,10.8
+1508.cec,1508,0,NA,NA,NA,M,il10,cecal.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1508.col,1508,0,NA,NA,NA,M,il10,colon.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1508.d0,1508,0,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,42.4
+1508.dn35,1508,-35,NA,NA,NA,M,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,2.7
+1509.cec,1509,0,NA,NA,NA,F,il10,cecal.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1509.col,1509,0,NA,NA,NA,F,il10,colon.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1509.d0,1509,0,NA,NA,NA,F,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,158.1
+1509.dn21,1509,-21,NA,NA,NA,F,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,43166.7
+1509.dn35,1509,-35,NA,NA,NA,F,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,16.1
+1510.cec,1510,0,NA,NA,NA,F,il10,cecal.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1510.col,1510,0,NA,NA,NA,F,il10,colon.contents,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,NA
+1510.d0,1510,0,NA,NA,NA,F,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,NA,590
+1510.dn21,1510,-21,NA,NA,NA,F,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,NA,6090.3
+1510.dn35,1510,-35,NA,NA,NA,F,il10,feces,HhWT + anti-p40 ,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,NA,18
+1511.cec,1511,0,NA,NA,NA,F,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1511.col,1511,0,NA,NA,NA,F,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1511.d0,1511,0,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1511.dn21,1511,-21,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,no,8.5
+1511.dn35,1511,-35,NA,NA,NA,F,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,no,23.1
+1512.cec,1512,0,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1512.col,1512,0,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1512.d0,1512,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,23.8
+1512.dn21,1512,-21,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,no,9.7
+1513.cec,1513,0,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1513.col,1513,0,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1513.d0,1513,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,10.3
+1513.dn35,1513,-35,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,no,15.8
+1514.cec,1514,0,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1514.col,1514,0,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,NA
+1514.d0,1514,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211810,NA,NA,no,27.7
+1514.dn21,1514,-21,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212709,NA,NA,no,2.5
+1514.dn35,1514,-35,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20211309,NA,NA,no,7.473198161
+1515.cec,1515,1,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1515.col,1515,1,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1515.d0,1515,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,NA
+1515.dn35,1515,-35,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,14
+1516.cec,1516,1,NA,NA,NA,M,il10,cecal.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1516.col,1516,1,NA,NA,NA,M,il10,colon.contents,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1516.d1,1516,1,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1516.d0,1516,0,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,8.1
+1516.dn21,1516,-21,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,no,no,12.2
+1516.dn35,1516,-35,NA,NA,NA,M,il10,feces,No_treatment_controls (sterile broth + water + mAb vehicle),No treatment,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,3.7
+1523.cec,1523,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,76000000,yes,yes,NA
+1523.col,1523,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,yes,yes,NA
+1523.d1,1523,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,91000000,yes,yes,NA
+1523.d0,1523,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,yes,yes,NA
+1524.cec,1524,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,330000,yes,yes,NA
+1524.col,1524,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,yes,yes,NA
+1524.d1,1524,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,270000,yes,yes,NA
+1524.d0,1524,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,yes,yes,57740.4
+1524.dn21,1524,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,yes,yes,10747.3
+1525.cec,1525,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1525.col,1525,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1525.d0,1525,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,17.1
+1525.dn35,1525,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,12.8
+1535.cec,1535,1,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1535.col,1535,1,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1535.d1,1535,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1535.d0,1535,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,3401.9
+1535.dn21,1535,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,no,no,8228.9
+1535.dn35,1535,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,3
+1536.cec,1536,1,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,1.35E+08,yes,yes,NA
+1536.col,1536,1,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,yes,yes,NA
+1536.d1,1536,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,1.87E+08,yes,yes,NA
+1536.d0,1536,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,yes,yes,1940.4
+1537.cec,1537,1,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0.00E+00,yes,yes,NA
+1537.col,1537,1,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,yes,yes,NA
+1537.d1,1537,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,4.00E+06,yes,yes,NA
+1537.d0,1537,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,yes,yes,5653.5
+1537.dn21,1537,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,yes,yes,8072.5
+1538.cec,1538,1,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1538.col,1538,1,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1538.d1,1538,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,yes,yes,NA
+1538.dn21,1538,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,no,no,14251.9
+1539.cec,1539,1,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1539.col,1539,1,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1539.d1,1539,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0.00E+00,no,no,NA
+1539.dn21,1539,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,no,no,4455.4
+1540.cec,1540,1,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1540.col,1540,1,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1540.d1,1540,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0.00E+00,no,no,NA
+1540.d0,1540,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,43.7
+1540.dn21,1540,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,no,no,9794.6
+1540.dn35,1540,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,11.1
+1541.cec,1541,1,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1541.col,1541,1,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1541.d1,1541,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0.00E+00,no,no,NA
+1541.d0,1541,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,0
+1541.dn21,1541,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,no,no,24691.5
+1541.dn35,1541,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,2.4
+1542.cec,1542,1,NA,NA,NA,F,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1542.col,1542,1,NA,NA,NA,F,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,NA
+1542.d1,1542,1,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,0.00E+00,no,no,NA
+1542.d0,1542,0,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,991
+1542.dn21,1542,-21,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,no,no,11042.7
+1542.dn35,1542,-35,NA,NA,NA,F,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,800.6
+1543.dn35,1543,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,NA,NA,10.960288
+1544.cec,1544,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1544.col,1544,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1544.dn21,1544,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,NA,NA,NA
+1544.dn35,1544,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,NA,NA,1.2
+1545.cec,1545,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,2800000,yes,yes,NA
+1545.col,1545,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,yes,yes,NA
+1545.d1,1545,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,560000,yes,yes,NA
+1545.d0,1545,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,yes,yes,226404.8
+1545.dn21,1545,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,yes,yes,6938.4
+1545.dn35,1545,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,yes,yes,4
+1546.cec,1546,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,22000,yes,yes,NA
+1546.col,1546,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,yes,yes,NA
+1546.d1,1546,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,1000,yes,yes,NA
+1546.d0,1546,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,yes,yes,135699
+1546.dn21,1546,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,yes,yes,8685.9
+1546.dn35,1546,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + control mAb,Hh+control,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,yes,yes,NA
+1547.cec,1547,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1547.col,1547,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1547.d1,1547,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0.00E+00,no,no,NA
+1547.d0,1547,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,10192.5
+1547.dn35,1547,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,0.2
+1548.cec,1548,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1548.col,1548,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1548.d1,1548,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0.00E+00,no,no,NA
+1548.d0,1548,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,126.2
+1548.dn35,1548,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,4.5
+1549.cec,1549,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1549.col,1549,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1549.d1,1549,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0.00E+00,no,no,NA
+1549.d0,1549,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,NA
+1549.dn35,1549,-35,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212009,NA,no,no,5
+1550.cec,1550,1,NA,NA,NA,M,il10,cecal.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0,no,no,NA
+1550.col,1550,1,NA,NA,NA,M,il10,colon.contents,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,NA,no,no,NA
+1550.d1,1550,1,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212610,0.00E+00,no,no,NA
+1550.d0,1550,0,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20212510,NA,no,no,62.3
+1550.dn21,1550,-21,NA,NA,NA,M,il10,feces,HhWT + VPI spores + anti-p40,Hh+p40,NA,p40_3,IL10_mice_HhWT_antip40_Exp_3_091321,20210410,NA,no,no,5046.4
+0215.cec,215,4,recipient,1231,2,M ,C57Bl/6NCrl,cecal.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+0215.col,215,4,recipient,1231,2,M ,C57Bl/6NCrl,colon.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+0215.d3,215,3,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+0215.d2,215,2,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+0215.d1,215,1,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,33.6
+0215.d0,215,0,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,
+0215.dn2,215,-2,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+0215.dn4,215,-4,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+0215.dn5,215,-5,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+0215.dn6,215,-6,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+0215.dn7,215,-7,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.4
+0253.cec,253,4,recipient,1231,2,M ,C57Bl/6NCrl,cecal.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+0253.col,253,4,recipient,1231,2,M ,C57Bl/6NCrl,colon.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+0253.d3,253,3,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+0253.d2,253,2,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+0253.d1,253,1,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,44.4
+0253.d0,253,0,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,
+0253.dn2,253,-2,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+0253.dn4,253,-4,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+0253.dn5,253,-5,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+0253.dn6,253,-6,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+0253.dn7,253,-7,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.5
+0255.cec,255,4,recipient,1230,2,F,C57Bl/6NCrl,cecal.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+0255.col,255,4,recipient,1230,2,F,C57Bl/6NCrl,colon.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+0255.d3,255,3,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+0255.d2,255,2,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+0255.d1,255,1,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,86.1
+0255.d0,255,0,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,
+0255.dn2,255,-2,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+0255.dn4,255,-4,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+0255.dn5,255,-5,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+0255.dn6,255,-6,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+0255.dn7,255,-7,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0
+0289.cec,289,4,recipient,1230,2,F,C57Bl/6NCrl,cecal.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+0289.col,289,4,recipient,1230,2,F,C57Bl/6NCrl,colon.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+0289.d3,289,3,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+0289.d2,289,2,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+0289.d1,289,1,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,2078.4
+0289.d0,289,0,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,
+0289.dn2,289,-2,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+0289.dn4,289,-4,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+0289.dn5,289,-5,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+0289.dn6,289,-6,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+0289.dn7,289,-7,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.2
+2026.dn4,2026,-4,recipient,1219,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,NA,yes,
+2026.dn5,2026,-5,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,NA,yes,
+2026.dn6,2026,-6,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,NA,yes,
+2026.dn7,2026,-7,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,NA,yes,
+2027.dn4,2027,-4,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,NA,yes,
+2027.dn5,2027,-5,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,NA,yes,
+2027.dn6,2027,-6,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,NA,yes,
+2027.dn7,2027,-7,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,NA,yes,
+2049.cec,2049,4,recipient,1219,1,F,C57Bl/6NCrl,cecal.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,NA,no,
+2049.col,2049,4,recipient,1219,1,F,C57Bl/6NCrl,colon.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,NA,no,
+2049.d3,2049,3,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,NA,no,
+2049.d2,2049,2,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,NA,no,
+2049.d0,2049,0,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,NA,no,
+2049.dn2,2049,-2,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,NA,no,
+2049.dn4,2049,-4,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,NA,no,
+2049.dn5,2049,-5,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,NA,no,
+2049.dn6,2049,-6,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,NA,no,
+2049.dn7,2049,-7,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,NA,no,
+2050.1.col,2050,4,recipient,1219,1,F,C57Bl/6NCrl,colon.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2050.2.col,2050,4,recipient,1219,1,F,C57Bl/6NCrl,colon.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2050.cec,2050,4,recipient,1219,1,F,C57Bl/6NCrl,cecal.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2050.d3,2050,3,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,no,no,
+2050.d2,2050,2,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,no,no,
+2050.d1,2050,1,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,0,no,no,
+2050.d0,2050,0,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,NA,no,
+2050.dn2,2050,-2,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,NA,no,
+2050.dn4,2050,-4,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,NA,no,
+2050.dn5,2050,-5,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,NA,no,
+2050.dn6,2050,-6,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,NA,no,
+2050.dn7,2050,-7,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,NA,no,
+2203.cec,2203,2,recipient,1313,1,M ,C57Bl/6NCrl,cecal.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,62000000,yes,yes,
+2203.col,2203,2,recipient,1313,1,M ,C57Bl/6NCrl,colon.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,yes,yes,
+2203.d1,2203,1,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,37700000,yes,yes,
+2203.d0,2203,0,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,yes,yes,
+2203.dn2,2203,-2,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,yes,yes,
+2203.dn4,2203,-4,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,yes,yes,
+2203.dn5,2203,-5,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,yes,yes,
+2203.dn6,2203,-6,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,yes,yes,
+2203.dn7,2203,-7,recipient,1226,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,yes,yes,
+2221.1.col,2221,4,recipient,1226,1,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+control,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2221.2.col,2221,4,recipient,1226,1,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2221.cec,2221,4,recipient,1226,1,M ,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2221.d3,2221,3,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,no,no,
+2221.d2,2221,2,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,no,no,
+2221.d1,2221,1,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,0,no,no,
+2221.d0,2221,0,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,no,no,
+2221.dn2,2221,-2,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,no,no,
+2221.dn4,2221,-4,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,no,no,
+2221.dn5,2221,-5,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,no,no,
+2221.dn6,2221,-6,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,no,no,
+2221.dn7,2221,-7,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,no,no,
+2223.1.col,2223,4,recipient,1226,1,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2223.2.col,2223,4,recipient,1226,1,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2223.cec,2223,4,recipient,1226,1,M ,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2223.d3,2223,3,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,no,no,
+2223.d2,2223,2,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,no,no,
+2223.d1,2223,1,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,0,no,no,
+2223.d0,2223,0,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,no,no,
+2223.dn2,2223,-2,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,no,no,
+2223.dn4,2223,-4,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,no,no,
+2223.dn5,2223,-5,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,no,no,
+2223.dn6,2223,-6,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,no,no,
+2223.dn7,2223,-7,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,no,no,
+2224.cec,2224,3,recipient,1305,1,M ,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,52000000,yes,yes,
+2224.col,2224,3,recipient,1305,1,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,yes,yes,
+2224.d2,2224,2,recipient,1305,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,40000000,yes,yes,
+2224.d1,2224,1,recipient,1305,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,1100000,yes,yes,
+2224.d0,2224,0,recipient,1305,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,yes,yes,
+2224.dn2,2224,-2,recipient,1305,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,yes,yes,
+2224.dn4,2224,-4,recipient,1305,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,yes,yes,
+2224.dn5,2224,-5,recipient,1305,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,yes,yes,
+2224.dn6,2224,-6,recipient,1305,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,yes,yes,
+2224.dn7,2224,-7,recipient,1305,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,yes,yes,
+2232.1.col,2232,4,recipient,1226,1,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2232.2.col,2232,4,recipient,1226,1,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2232.cec,2232,4,recipient,1226,1,M ,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,yes,no,
+2232.d3,2232,3,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,no,no,
+2232.d2,2232,2,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,no,no,
+2232.d1,2232,1,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,0,no,no,
+2232.d0a,2232,0,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,no,no,
+2232.d0b,2232,0,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,no,no,
+2232.dn2,2232,-2,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,no,no,
+2232.dn4,2232,-4,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,no,no,
+2232.dn5,2232,-5,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,no,no,
+2232.dn6,2232,-6,recipient,1226,1,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,no,no,
+2247.cec,2247,3,recipient,1313,1,M ,C57Bl/6NCrl,cecal.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,5300000,yes,yes,
+2247.col,2247,3,recipient,1313,1,M ,C57Bl/6NCrl,colon.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,yes,yes,
+2247.d1,2247,1,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,15300000,yes,yes,
+2247.dn2,2247,-2,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,yes,yes,
+2247.dn4,2247,-4,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,yes,yes,
+2247.dn5,2247,-5,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,yes,yes,
+2247.dn6,2247,-6,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,yes,yes,
+2247.dn7,2247,-7,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,yes,yes,
+2254.cec,2254,4,recipient,1219,1,F,C57Bl/6NCrl,cecal.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2254.col,2254,4,recipient,1219,1,F,C57Bl/6NCrl,colon.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+2254.d3,2254,3,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,no,no,
+2254.d2,2254,2,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,no,no,
+2254.d1,2254,1,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,0,no,no,
+2254.d0,2254,0,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,no,no,
+2254.dn2,2254,-2,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,no,no,
+2254.dn4,2254,-4,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,no,no,
+2254.dn5,2254,-5,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,no,no,
+2254.dn6,2254,-6,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,no,no,
+2254.dn7,2254,-7,recipient,1219,1,F,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,no,no,
+2289.cec,2289,3,recipient,1313,1,M ,C57Bl/6NCrl,cecal.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,26000000,yes,yes,
+2289.col,2289,3,recipient,1313,1,M ,C57Bl/6NCrl,colon.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,yes,yes,
+2289.d1,2289,1,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,130000,yes,yes,
+2289.d0,2289,0,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,yes,yes,
+2289.dn4,2289,-4,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,yes,yes,
+2289.dn6,2289,-6,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,yes,yes,
+2289.dn7,2289,-7,recipient,1313,1,M ,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,yes,yes,
+2399.cec,2399,4,recipient,1306,2,F,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,503000000,NA,yes,
+2399.col,2399,4,recipient,1306,2,F,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,NA,yes,
+2399.d0,2399,0,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,NA,yes,32.1
+2399.dn2,2399,-2,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,NA,yes,
+2399.dn4,2399,-4,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,NA,yes,
+2399.dn5,2399,-5,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,NA,yes,
+2399.dn6,2399,-6,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,NA,yes,
+2399.dn7,2399,-7,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,NA,yes,0.8
+2401.cec,2401,4,recipient,1303,2,M ,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2401.col,2401,4,recipient,1303,2,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2401.d2,2401,2,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+2401.d1,2401,1,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+2401.d0,2401,0,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,2.5
+2401.dn2,2401,-2,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+2401.dn4,2401,-4,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+2401.dn5,2401,-5,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+2401.dn6,2401,-6,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+2401.dn7,2401,-7,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.3
+2424.cec,2424,4,recipient,1240,2,M ,C57Bl/6NCrl,cecal.contents,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2424.col,2424,4,recipient,1240,2,M ,C57Bl/6NCrl,colon.contents,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2424.d3,2424,3,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+2424.d2,2424,2,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+2424.d1,2424,1,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+2424.d0,2424,0,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,6.3
+2424.dn2,2424,-2,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+2424.dn4,2424,-4,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+2424.dn5,2424,-5,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+2424.dn6,2424,-6,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+2424.dn7,2424,-7,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,6.3
+2425.cec,2425,4,recipient,1240,2,M ,C57Bl/6NCrl,cecal.contents,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2425.col,2425,4,recipient,1240,2,M ,C57Bl/6NCrl,colon.contents,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2425.d3,2425,3,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+2425.d2,2425,2,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+2425.d1,2425,1,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+2425.d0,2425,0,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,2.3
+2425.dn2,2425,-2,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+2425.dn4,2425,-4,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+2425.dn5,2425,-5,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+2425.dn6,2425,-6,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+2425.dn7,2425,-7,recipient,1240,2,M ,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,2.3
+2441.cec,2441,4,recipient,1303,2,M ,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2441.col,2441,4,recipient,1303,2,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2441.d3,2441,3,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+2441.d2,2441,2,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+2441.d1,2441,1,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+2441.d0,2441,0,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,130.3
+2441.dn2,2441,-2,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+2441.dn4,2441,-4,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+2441.dn5,2441,-5,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+2441.dn6,2441,-6,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+2441.dn7,2441,-7,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.1
+2467.cec,2467,4,recipient,1306,2,F,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,242000000,NA,yes,
+2467.col,2467,4,recipient,1306,2,F,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,NA,yes,
+2467.d0,2467,0,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,NA,yes,500.1
+2467.dn2,2467,-2,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,NA,yes,
+2467.dn4,2467,-4,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,NA,yes,
+2467.dn5,2467,-5,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,NA,yes,
+2467.dn6,2467,-6,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,NA,yes,
+2467.dn7,2467,-7,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,NA,yes,7.2
+2484.cec,2484,4,recipient,1306,2,F,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,399000000,NA,yes,
+2484.col,2484,4,recipient,1306,2,F,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,NA,yes,
+2484.d0,2484,0,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,NA,yes,40.3
+2484.dn2,2484,-2,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,NA,yes,
+2484.dn4,2484,-4,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,NA,yes,
+2484.dn5,2484,-5,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,NA,yes,
+2484.dn6,2484,-6,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,NA,yes,
+2484.dn7,2484,-7,recipient,1306,2,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,NA,yes,0.6
+2491.cec,2491,4,recipient,1303,2,M ,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2491.col,2491,4,recipient,1303,2,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2491.d3,2491,3,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+2491.d2,2491,2,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+2491.d1,2491,1,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+2491.d0,2491,0,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,15.1
+2491.dn2,2491,-2,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+2491.dn4,2491,-4,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+2491.dn5,2491,-5,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+2491.dn6,2491,-6,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+2491.dn7,2491,-7,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.2
+2495.cec,2495,4,recipient,1303,2,M ,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2495.col,2495,4,recipient,1303,2,M ,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2495.d3,2495,3,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+2495.d2,2495,2,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+2495.d1,2495,1,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+2495.d0,2495,0,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,116.1
+2495.dn2,2495,-2,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+2495.dn4,2495,-4,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+2495.dn5,2495,-5,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+2495.dn6,2495,-6,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+2495.dn7,2495,-7,recipient,1303,2,M ,C57Bl/6NCrl,feces,Anti-p40 FMT(R)+ VPI spores,Hh+p40,Anti-p40 FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0
+2522.1.col,2522,4,recipient,1305,1,F,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,yes,yes,
+2522.2.col,2522,4,recipient,1305,1,F,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,yes,yes,
+2522.cec,2522,4,recipient,1305,1,F,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,77000000,yes,yes,
+2522.d2,2522,2,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,270000,yes,yes,
+2522.d1,2522,1,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,16600000,yes,yes,
+2522.d0,2522,0,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,yes,yes,
+2559.cec,2559,4,recipient,1305,1,F,C57Bl/6NCrl,cecal.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,300000000,yes,yes,
+2559.col,2559,4,recipient,1305,1,F,C57Bl/6NCrl,colon.contents,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,yes,yes,
+2559.d2,2559,2,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,yes,yes,
+2559.d1,2559,1,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,10900000,yes,yes,
+2559.d0,2559,0,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,yes,yes,
+2698.cec,2698,4,recipient,1230,2,F,C57Bl/6NCrl,cecal.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2698.col,2698,4,recipient,1230,2,F,C57Bl/6NCrl,colon.contents,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+2698.d3,2698,3,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+2698.d2,2698,2,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+2698.d1,2698,1,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+2698.d0,2698,0,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,1902.7
+2698.dn2,2698,-2,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+2698.dn4,2698,-4,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+2698.dn5,2698,-5,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+2698.dn6,2698,-6,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+2698.dn7,2698,-7,recipient,1230,2,F,C57Bl/6NCrl,feces,Isotype FMT(S) + VPI spores,Hh+control,Isotype FMT(S) + VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.3
+3109.cec,3109,4,recipient,1231,2,M ,C57Bl/6NCrl,cecal.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+3109.col,3109,4,recipient,1231,2,M ,C57Bl/6NCrl,colon.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+3109.d3,3109,3,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+3109.d2,3109,2,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+3109.d1,3109,1,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+3109.d0,3109,0,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,128.7
+3109.dn2,3109,-2,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+3109.dn4,3109,-4,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+3109.dn5,3109,-5,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+3109.dn6,3109,-6,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+3109.dn7,3109,-7,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.2
+3146.cec,3146,4,recipient,1231,2,M ,C57Bl/6NCrl,cecal.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+3146.col,3146,4,recipient,1231,2,M ,C57Bl/6NCrl,colon.contents,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.12.2021,0,no,no,
+3146.d3,3146,3,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.11.2021,0,no,no,
+3146.d2,3146,2,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.10.2021,0,no,no,
+3146.d1,3146,1,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.9.2021,0,no,no,
+3146.d0,3146,0,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.8.2021,NA,no,no,109.1
+3146.dn2,3146,-2,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.6.2021,NA,no,no,
+3146.dn4,3146,-4,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.4.2021,NA,no,no,
+3146.dn5,3146,-5,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.3.2021,NA,no,no,
+3146.dn6,3146,-6,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,Isotype FMT(R)+ VPI spores,fmt_2,Barron_FMT_antip40_exp2_112021,11.2.2021,NA,no,no,
+3146.dn7,3146,-7,recipient,1231,2,M ,C57Bl/6NCrl,feces,Isotype FMT(R)+ VPI spores,Hh+control,No_treatment,fmt_2,Barron_FMT_antip40_exp2_112021,11.1.2021,NA,no,no,0.3
+3160.1.col,3160,4,recipient,1289,1,F,C57Bl/6NCrl,colon.contents,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+3160.2.col,3160,4,recipient,1289,1,F,C57Bl/6NCrl,colon.contents,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+3160.cec,3160,4,recipient,1289,1,F,C57Bl/6NCrl,cecal.contents,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+3160.d3,3160,3,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,no,no,
+3160.d2,3160,2,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,no,no,
+3160.d1,3160,1,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,0,no,no,
+3160.d0,3160,0,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,no,no,
+3160.dn2,3160,-2,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,no,no,
+3160.dn4,3160,-4,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,no,no,
+3160.dn5,3160,-5,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,no,no,
+3160.dn6,3160,-6,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,no,no,
+3160.dn7,3160,-7,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,no,no,
+3194.1.col,3194,4,recipient,1289,1,F,C57Bl/6NCrl,colon.contents,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+3194.2.col,3194,4,recipient,1289,1,F,C57Bl/6NCrl,colon.contents,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+3194.cec,3194,4,recipient,1289,1,F,C57Bl/6NCrl,cecal.contents,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.3.2021,0,no,no,
+3194.d3,3194,3,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.2.2021,0,no,no,
+3194.d2,3194,2,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,9.1.2021,0,no,no,
+3194.d1,3194,1,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.31.2021,0,no,no,
+3194.d0,3194,0,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.30.2021,NA,no,no,
+3194.dn2,3194,-2,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,no,no,
+3194.dn4,3194,-4,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.26.2021,NA,no,no,
+3194.dn5,3194,-5,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.25.2021,NA,no,no,
+3194.dn6,3194,-6,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.24.2021,NA,no,no,
+3194.dn7,3194,-7,recipient,1289,1,F,C57Bl/6NCrl,feces,No_treatment,No_treatment,No_treatment,fmt_1,Barron_FMT_antip40_exp1_082021,8.23.2021,NA,no,no,
+2027.2026.1.dn2,2027_2026_1,-2,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,no,yes,
+2027.2026.2.dn2,2027_2026_2,-2,recipient,1305,1,F,C57Bl/6NCrl,feces,Anti-p40 FMT(S)+ VPI spores,Hh+p40,Anti-p40 FMT(S)+ VPI spores,fmt_1,Barron_FMT_antip40_exp1_082021,8.28.2021,NA,no,yes,
