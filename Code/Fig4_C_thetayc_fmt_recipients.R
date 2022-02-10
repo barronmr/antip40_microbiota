@@ -28,8 +28,8 @@ d0_fmt_meta <- inner_join(d0_fmt, meta)
 # (03) PLOTTING
 ###############################################################################
 
-colors_2 <- c("yes" = "black", 
-              "no" = "grey")
+colors_2 <- c("no" = "#404040", 
+            "yes" = "#999999")
 
 d0_plot <- ggplot(d0_fmt_meta, aes(axis1, axis2, color  = ever_pos_cdiff)) +
   geom_point(size = 6, shape = 17) +
