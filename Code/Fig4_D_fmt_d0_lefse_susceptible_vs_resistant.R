@@ -108,7 +108,10 @@ agg_otu_rel_abund <- rel_abund_design %>%
 top_otu_tax <- agg_otu_rel_abund %>%
   group_by(classification, group, ever_pos_cdiff) %>%
   summarize(mean_rel_abund_c = mean(agg_rel_abund_c)) %>%
-  mutate(tax_label = str_replace(classification, "(^\\w+)_(.*)", "_\\1_ \\2"))
+  mutate(tax_label = case_when(
+      str_detect(classification, '_') ~ str_replace(classification, "(^\\w+)_(.*)", "_\\1_ \\2"),
+                               TRUE ~ paste0('_', classification, '_'))
+         )
 
 ###############################################################################
 # (05) PLOTTING
