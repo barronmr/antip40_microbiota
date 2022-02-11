@@ -76,6 +76,12 @@ rel_abund <- lefse_meta%>%
          rel_abund = count/total_count) %>%  # Calculating rel abund for each Otu and appending to df
   ungroup() #The result is a table containing relative abundance of each OTU for each sample
 
+smallest_non_zero <- rel_abund %>%
+    filter(rel_abund > 0) %>%
+    slice_min(rel_abund) %>%
+    pull(rel_abund) %>% .[1]
+rel_abund <- rel_abund %>%
+    mutate(rel_abund_c = rel_abund + smallest_non_zero / 10)
 ###############################################################################
 # (04) MERGE TAXONOMY AND SAMPLE INFORMATION
 ###############################################################################
@@ -92,22 +98,17 @@ rel_abund_design <- left_join(rel_abund_tax, design) #%>%
 # (B)
 agg_otu_rel_abund <- rel_abund_design %>%
   filter(level == "genus") %>%
-  group_by(group, rel_abund, ever_pos_cdiff,
+  group_by(group, rel_abund_c, ever_pos_cdiff,
            otu, treatment, pvalue, classification,lda) %>% # Aggregates classifications based on treatment
-  summarize(agg_rel_abund = sum(rel_abund)) %>% # Calculating aggregated rel abund
+  summarize(agg_rel_abund_c = sum(rel_abund_c)) %>% # Calculating aggregated rel abund
   ungroup()
 
-smallest_non_zero <- agg_otu_rel_abund %>%
-    filter(agg_rel_abund > 0) %>%
-    slice_min(agg_rel_abund) %>%
-    pull(agg_rel_abund) %>% .[1]
 
 #    (C) Finding tax classifications for a given tax level
 top_otu_tax <- agg_otu_rel_abund %>%
   group_by(classification, group, ever_pos_cdiff) %>%
-  summarize(mean_rel_abund = mean(agg_rel_abund)) %>%
-  mutate(mean_rel_abund_c = mean_rel_abund + smallest_non_zero / 10,
-         tax_label = str_replace(classification, "(^\\w+)_(.*)", "_\\1_ \\2"))
+  summarize(mean_rel_abund_c = mean(agg_rel_abund_c)) %>%
+  mutate(tax_label = str_replace(classification, "(^\\w+)_(.*)", "_\\1_ \\2"))
 
 ###############################################################################
 # (05) PLOTTING
