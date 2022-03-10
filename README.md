@@ -1,5 +1,3 @@
-This repository contains data and code used for microbiota analyses in our manuscript investigating susceptiblity to *C.difficile* colonization in mice with inflammatory bowel disease.
-
 # Title: Intestinal inflammation alters the gut microbiota to trigger susceptibility to *Clostridioides difficile* colonization
 
 Authors: Madeline R. Barron, Kelly L. Sovacool, Lisa Abernathy-Close, Kimberly C. Vendrov, Alexandra K. Standke, Ingrid L. Bergin, Patrick D. Schloss, Vincent B. Young 
