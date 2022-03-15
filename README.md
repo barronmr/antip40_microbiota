@@ -1,4 +1,4 @@
-# Title: Intestinal inflammation alters the gut microbiota to trigger susceptibility to *Clostridioides difficile* colonization
+# Title: Intestinal inflammation alters the microbiota to trigger susceptibility to *Clostridioides difficile* colonization
 
 Authors: Madeline R. Barron, Kelly L. Sovacool, Lisa Abernathy-Close, Kimberly C. Vendrov, Alexandra K. Standke, Ingrid L. Bergin, Patrick D. Schloss, Vincent B. Young 
 
