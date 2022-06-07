@@ -31,6 +31,9 @@ dat %>%
     ggplot(aes(x = day, y = cfu, color = treatment)) +
     geom_line() +
     geom_point() +
+    geom_hline(yintercept = 10^2,
+               linetype = 'dashed',
+               color = 'grey') +
     facet_wrap("mouse") +
     scale_color_manual(values = treatment_colors) +
     scale_x_continuous(breaks = c(1,2,3,5,7,9)) +
