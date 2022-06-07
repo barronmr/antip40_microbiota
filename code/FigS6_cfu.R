@@ -34,7 +34,7 @@ dat %>%
     geom_hline(yintercept = 10^2,
                linetype = 'dashed',
                color = 'grey') +
-    facet_wrap("mouse") +
+    facet_wrap("mouse", ncol = 6) +
     scale_color_manual(values = treatment_colors) +
     scale_x_continuous(breaks = c(1,2,3,5,7,9)) +
     scale_y_log10(breaks = 10^yrange,
@@ -47,6 +47,9 @@ dat %>%
           legend.title = element_blank(),
           axis.title.x = element_markdown(),
           axis.title.y = element_markdown(),
+          panel.grid.minor = element_blank(),
+          strip.background = element_blank(),
+          strip.text = element_blank(),
           legend.box.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = "pt"),
           legend.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = "pt"),
           plot.margin = margin(t = 0, r = 2, b = 0, l = 2, unit = "pt"))
