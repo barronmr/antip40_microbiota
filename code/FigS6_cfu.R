@@ -43,7 +43,10 @@ dat %>%
     theme(legend.position = 'top',
           legend.title = element_blank(),
           axis.title.x = element_markdown(),
-          axis.title.y = element_markdown())
+          axis.title.y = element_markdown(),
+          legend.box.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = "pt"),
+          legend.margin = margin(t = 0, r = 0, b = 0, l = 0, unit = "pt"),
+          plot.margin = margin(t = 0, r = 2, b = 0, l = 2, unit = "pt"))
 
 ggsave(here('figures','FigureS6.pdf'),
        device = 'pdf', width = 6.875, height = 9.0625)
