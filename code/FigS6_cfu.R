@@ -37,7 +37,7 @@ dat %>%
     scale_y_log10(breaks = 10^yrange,
                   labels = yrange) +
     labs(x = "Days post *C. difficile* challenge",
-         y = "*C. difficile* CFU/g (log<sub>10</sub>)"
+         y = "*C. difficile* CFU/g<br>fecal or cecal content (log<sub>10</sub>)"
          ) +
     theme_minimal() +
     theme(legend.position = 'top',
