@@ -1,6 +1,6 @@
 ###############################################################################
 # INTRO 
-# Code to generate PcoA plots of theta YC distances; Figure 3
+# Code to generate PcoA plots of theta YC distances; Figure 2
 # 12/21/21
 #Madeline R Barron 
 ###############################################################################
