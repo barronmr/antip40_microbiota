@@ -1,6 +1,6 @@
 ###############################################################################
 # INTRO 
-# Code to generate PcoA plots of theta YC distances, cecal contents; Figure S2
+# Code to generate PcoA plots of theta YC distances, cecal contents; Figure S4
 # 06/23/22
 #Madeline R Barron 
 ###############################################################################
