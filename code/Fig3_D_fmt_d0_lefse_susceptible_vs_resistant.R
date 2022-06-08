@@ -1,7 +1,7 @@
 
 ###############################################################################
 # INTRO
-# LeFSE analysis; top differentially abundant taxa in fecal samples of FMT recipients day 0 of C.difficile challenge (Fig 4D)
+# LeFSE analysis; top differentially abundant taxa in fecal samples of FMT recipients day 0 of C.difficile challenge (Fig 3D)
 # 12-26-21
 #Madeline R Barron
 ###############################################################################
