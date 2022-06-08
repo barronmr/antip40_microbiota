@@ -1,5 +1,5 @@
 ###############################################################################
-# Relative Abundance of Top 10 Genera DMM Analysis (Figure S3)
+# Relative Abundance of Top 10 Genera DMM Analysis (Figure S5)
 #01/17/22
 #Madeline R. Barron
 ###############################################################################
