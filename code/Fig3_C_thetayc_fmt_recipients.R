@@ -1,6 +1,6 @@
 ################################################################################
 # INTRO 
-# Code to generate PcoA plots of theta YC distances in FMT recipients  (Fig 4C)
+# Code to generate PcoA plots of theta YC distances in FMT recipients  (Fig 3C)
 # 12/21/21
 #Madeline R Barron 
 ###############################################################################
